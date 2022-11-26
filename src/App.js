@@ -1,5 +1,5 @@
 import "./styles.css";
-
+import './new.css'
 export default function App() {
   return (
     <body>
